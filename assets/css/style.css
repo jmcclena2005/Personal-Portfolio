@@ -473,6 +473,7 @@ a { color: inherit; }
     box-shadow: 12px 12px 0 var(--main-color);
 }
 
+/*AI-assisted: Claude helped me set up the shared section styles and the article cards.*/
 
 /* ══════════════════════════════════════════════════════
    SECTION SHARED
@@ -606,10 +607,11 @@ a { color: inherit; }
 .article-small { margin: 0; max-width: none; }
 .article-small .article-card-footer { justify-content: flex-start; }
 
+/*Ai-assisted: Claude helped me set up the styles for the case study section, including the hero, meta strip, content sections, cards, and image grid.*/
 
 /* ══════════════════════════════════════════════════════
    CASE STUDIES
-══════════════════════════════════════════════════════ */
+═════════════════════════════════════════════════════ */
 
 /* Hero banner (dark) */
 .cs-hero {
@@ -964,6 +966,8 @@ a { color: inherit; }
     color: var(--main-color-dark);
     margin-bottom: 36px;
 }
+
+/*AI-assisted: Claude helped me set up the contact links, including the icons, text, and hover effects.*/
 
 /* Contact link list */
 .contact-links {
